@@ -1,0 +1,30 @@
+current directory: /var/www/html/ruby/''/gems/msgpack-1.6.0/ext/msgpack
+/usr/bin/ruby3.0 -I /usr/local/lib/site_ruby/3.0.0 extconf.rb
+checking for ruby/st.h... yes
+checking for st.h... no
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... no
+creating Makefile
+
+current directory: /var/www/html/ruby/''/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20221114-109766-fhs3wi sitelibdir\=./.gem.20221114-109766-fhs3wi clean
+
+current directory: /var/www/html/ruby/''/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20221114-109766-fhs3wi sitelibdir\=./.gem.20221114-109766-fhs3wi
+compiling buffer.c
+compiling buffer_class.c
+compiling extension_value_class.c
+compiling factory_class.c
+compiling packer.c
+compiling packer_class.c
+compiling packer_ext_registry.c
+compiling rbinit.c
+compiling rmem.c
+compiling unpacker.c
+compiling unpacker_class.c
+compiling unpacker_ext_registry.c
+linking shared-object msgpack/msgpack.so
+
+current directory: /var/www/html/ruby/''/gems/msgpack-1.6.0/ext/msgpack
+make DESTDIR\= sitearchdir\=./.gem.20221114-109766-fhs3wi sitelibdir\=./.gem.20221114-109766-fhs3wi install
+/usr/bin/install -c -m 0755 msgpack.so ./.gem.20221114-109766-fhs3wi/msgpack

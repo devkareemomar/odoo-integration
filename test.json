@@ -1,0 +1,316 @@
+{
+	"status": "success",
+	"result": [
+		{
+			"id": 8,
+			"campaign_id": false,
+			"source_id": false,
+			"medium_id": false,
+			"activity_ids": [],
+			"activity_state": false,
+			"activity_user_id": false,
+			"activity_type_id": false,
+			"activity_type_icon": false,
+			"activity_date_deadline": false,
+			"my_activity_date_deadline": false,
+			"activity_summary": false,
+			"activity_exception_decoration": false,
+			"activity_exception_icon": false,
+			"activity_calendar_event_id": false,
+			"message_is_follower": true,
+			"message_follower_ids": [
+				8
+			],
+			"message_partner_ids": [
+				3
+			],
+			"message_ids": [
+				26
+			],
+			"has_message": true,
+			"message_needaction": false,
+			"message_needaction_counter": 0,
+			"message_has_error": false,
+			"message_has_error_counter": 0,
+			"message_attachment_count": 0,
+			"message_main_attachment_id": false,
+			"website_message_ids": [],
+			"message_has_sms_error": false,
+			"phone_sanitized": "+201094976280",
+			"phone_sanitized_blacklisted": false,
+			"phone_blacklisted": false,
+			"mobile_blacklisted": false,
+			"phone_mobile_search": false,
+			"email_normalized": "lead@mail.com",
+			"is_blacklisted": false,
+			"message_bounce": 0,
+			"email_cc": false,
+			"name": "new lead",
+			"user_id": [
+				2,
+				"kareem"
+			],
+			"user_company_ids": [
+				1
+			],
+			"team_id": [
+				1,
+				"Sales"
+			],
+			"lead_properties": [],
+			"company_id": [
+				1,
+				"kareem-crm"
+			],
+			"referred": false,
+			"description": false,
+			"active": true,
+			"type": "opportunity",
+			"priority": "0",
+			"stage_id": [
+				1,
+				"New"
+			],
+			"kanban_state": "grey",
+			"tag_ids": [],
+			"color": 0,
+			"expected_revenue": 0.0,
+			"prorated_revenue": 0.0,
+			"recurring_revenue": 0.0,
+			"recurring_plan": false,
+			"recurring_revenue_monthly": 0.0,
+			"recurring_revenue_monthly_prorated": 0.0,
+			"company_currency": [
+				74,
+				"EGP"
+			],
+			"date_closed": false,
+			"date_action_last": false,
+			"date_open": "2022-11-27 12:35:39",
+			"day_open": 0.0,
+			"day_close": 0.0,
+			"date_last_stage_update": "2022-11-27 12:39:28",
+			"date_conversion": false,
+			"date_deadline": false,
+			"partner_id": false,
+			"partner_is_blacklisted": false,
+			"contact_name": false,
+			"partner_name": false,
+			"function": false,
+			"title": false,
+			"email_from": "lead@mail.com",
+			"phone": "+20 109 497 6280",
+			"mobile": false,
+			"phone_state": "correct",
+			"email_state": "correct",
+			"website": false,
+			"lang_id": false,
+			"lang_code": false,
+			"lang_active_count": 1,
+			"street": false,
+			"street2": false,
+			"zip": false,
+			"city": false,
+			"state_id": false,
+			"country_id": false,
+			"probability": 100.0,
+			"automated_probability": 100.0,
+			"is_automated_probability": true,
+			"lost_reason_id": false,
+			"calendar_event_ids": [],
+			"calendar_event_count": 0,
+			"duplicate_lead_ids": [
+				8
+			],
+			"duplicate_lead_count": 0,
+			"partner_email_update": false,
+			"partner_phone_update": false,
+			"is_partner_visible": true,
+			"__last_update": "2022-11-27 12:59:05",
+			"display_name": "new lead",
+			"create_uid": [
+				2,
+				"kareem"
+			],
+			"create_date": "2022-11-27 12:35:39",
+			"write_uid": [
+				2,
+				"kareem"
+			],
+			"write_date": "2022-11-27 12:59:05",
+			"won_status": "won",
+			"days_to_convert": 0.0,
+			"days_exceeding_closing": 0.0,
+			"reveal_id": false,
+			"iap_enrich_done": false,
+			"show_enrich_button": false,
+			"lead_mining_request_id": false
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// 
+
+
+[
+	{
+		"id": 3,
+		"message_is_follower": false,
+		"message_follower_ids": [],
+		"message_partner_ids": [],
+		"message_ids": [
+			8
+		],
+		"has_message": true,
+		"message_needaction": false,
+		"message_needaction_counter": 0,
+		"message_has_error": false,
+		"message_has_error_counter": 0,
+		"message_attachment_count": 0,
+		"message_main_attachment_id": false,
+		"website_message_ids": [],
+		"message_has_sms_error": false,
+		"email_normalized": "div.kareemomar@gmail.com",
+		"is_blacklisted": false,
+		"message_bounce": 0,
+		"activity_ids": [],
+		"activity_state": false,
+		"activity_user_id": false,
+		"activity_type_id": false,
+		"activity_type_icon": false,
+		"activity_date_deadline": false,
+		"my_activity_date_deadline": false,
+		"activity_summary": false,
+		"activity_exception_decoration": false,
+		"activity_exception_icon": false,
+		"activity_calendar_event_id": false,
+		"image_1920": false,
+		"image_1024": false,
+		"image_512": false,
+		"image_256": false,
+		"image_128": false,
+		"avatar_1920": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"avatar_1024": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"avatar_512": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"avatar_256": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"avatar_128": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"name": "kareem",
+		"display_name": "kareem",
+		"date": false,
+		"title": false,
+		"parent_id": false,
+		"parent_name": false,
+		"child_ids": [],
+		"ref": false,
+		"lang": "en_US",
+		"active_lang_count": 1,
+		"tz": "Africa/Cairo",
+		"tz_offset": "+0200",
+		"user_id": false,
+		"vat": false,
+		"same_vat_partner_id": false,
+		"same_company_registry_partner_id": false,
+		"company_registry": false,
+		"bank_ids": [],
+		"website": false,
+		"comment": false,
+		"category_id": [],
+		"active": true,
+		"employee": false,
+		"function": false,
+		"type": "contact",
+		"street": false,
+		"street2": false,
+		"zip": false,
+		"city": false,
+		"state_id": false,
+		"country_id": false,
+		"country_code": false,
+		"partner_latitude": 0.0,
+		"partner_longitude": 0.0,
+		"email": "div.kareemomar@gmail.com",
+		"email_formatted": "\"kareem\" <div.kareemomar@gmail.com>",
+		"phone": false,
+		"mobile": false,
+		"is_company": false,
+		"is_public": false,
+		"industry_id": false,
+		"company_type": "person",
+		"company_id": [
+			1,
+			"kareem-crm"
+		],
+		"color": 0,
+		"user_ids": [
+			2
+		],
+		"partner_share": false,
+		"contact_address": "\n\n  \n",
+		"commercial_partner_id": [
+			3,
+			"kareem"
+		],
+		"commercial_company_name": false,
+		"company_name": false,
+		"barcode": false,
+		"self": [
+			3,
+			"kareem"
+		],
+		"__last_update": "2022-11-27 11:33:01",
+		"create_uid": [
+			1,
+			"OdooBot"
+		],
+		"create_date": "2022-11-27 11:31:23",
+		"write_uid": [
+			1,
+			"OdooBot"
+		],
+		"write_date": "2022-11-27 11:33:01",
+		"im_status": "online",
+		"channel_ids": [
+			1,
+			2,
+			3
+		],
+		"contact_address_complete": "",
+		"image_medium": "PD94bWwgdmVyc2lvbj0nMS4wJyBlbmNvZGluZz0nVVRGLTgnID8+PHN2ZyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyB4bWxuczp4bGluaz0naHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayc+PHJlY3QgZmlsbD0naHNsKDEwNiwgNDIlLCA0NSUpJyBoZWlnaHQ9JzE4MCcgd2lkdGg9JzE4MCcvPjx0ZXh0IGZpbGw9JyNmZmZmZmYnIGZvbnQtc2l6ZT0nOTYnIHRleHQtYW5jaG9yPSdtaWRkbGUnIHg9JzkwJyB5PScxMjUnIGZvbnQtZmFtaWx5PSdzYW5zLXNlcmlmJz5LPC90ZXh0Pjwvc3ZnPg==",
+		"signup_token": false,
+		"signup_type": false,
+		"signup_expiration": false,
+		"signup_valid": false,
+		"signup_url": "https://kareem-crm.odoo.com/web/login?db=kareem-crm&signup_email=div.kareemomar%40gmail.com&login=div.kareemomar%40gmail.com",
+		"meeting_count": 0,
+		"meeting_ids": [],
+		"calendar_last_notif_ack": "2022-11-21 01:44:26",
+		"team_id": false,
+		"ocn_token": false,
+		"partner_gid": 0,
+		"additional_info": false,
+		"phone_sanitized": false,
+		"phone_sanitized_blacklisted": false,
+		"phone_blacklisted": false,
+		"mobile_blacklisted": false,
+		"phone_mobile_search": false,
+		"opportunity_ids": [],
+		"opportunity_count": 0
+	}
+]
