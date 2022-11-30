@@ -115,7 +115,6 @@ GEM
     mini_mime (1.1.2)
     minitest (5.16.3)
     msgpack (1.6.0)
-    mysql2 (0.5.4)
     net-imap (0.3.1)
       net-protocol
     net-pop (0.1.2)
@@ -127,7 +126,6 @@ GEM
     nio4r (2.5.8)
     nokogiri (1.13.8-x86_64-linux)
       racc (~> 1.4)
-    pg (1.4.4)
     phone (1.2.3)
     prettier_print (1.1.0)
     public_suffix (5.0.0)
@@ -186,6 +184,7 @@ GEM
       actionpack (>= 5.2)
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
+    sqlite3 (1.5.4-x86_64-linux)
     stimulus-rails (1.1.0)
       railties (>= 6.0.0)
     syntax_tree (4.3.0)
@@ -207,16 +206,19 @@ GEM
       nokogiri (~> 1.6)
       rubyzip (>= 1.3.0)
       selenium-webdriver (~> 4.0)
+    webrick (1.7.0)
     websocket (1.2.9)
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
+    xmlrpc (0.3.2)
+      webrick
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.6.1)
 
 PLATFORMS
-  x86_64-linux-gnu
+  x86_64-linux
 
 DEPENDENCIES
   bcrypt (~> 3.1.7)
@@ -226,22 +228,22 @@ DEPENDENCIES
   importmap-rails
   jbuilder
   jwt
-  mysql2 (~> 0.5)
-  pg
   phone
   puma (~> 5.0)
   rails (~> 7.0.4)
   ruby-lsp (~> 0.3.6)
   selenium-webdriver
   sprockets-rails
+  sqlite3 (~> 1.4)
   stimulus-rails
   turbo-rails
   tzinfo-data
   web-console
   webdrivers
+  xmlrpc
 
 RUBY VERSION
    ruby 3.0.2p107
 
 BUNDLED WITH
-   2.3.24
+   2.3.26
