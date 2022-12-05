@@ -1,6 +1,6 @@
 require "xmlrpc/client"
 class Api::OdooController < ApplicationController
-    before_action :authorize_request
+    # before_action :authorize_request
 
     def index 
         begin
