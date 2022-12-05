@@ -34,7 +34,7 @@ class Api::OdooController < ApplicationController
 
                         render json:{'status'=>'success','message' => 'updated lead type  successfully'}     
                     else
-                        params[:name] ?  name = params[:name]  : name = 'New Partner'
+                        params[:name] ?  name = params[:name]  : name = 'New Lead'
 
                         partner_id = models.execute_kw(db, uid, password, 'res.partner', 'create', [{name: name}])
                         lead_id = models.execute_kw(db, uid, password, 'crm.lead', 'create', [{name: name,phone_sanitized: phone,partner_id: partner_id ,phone:phone}])
