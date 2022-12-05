@@ -4,11 +4,10 @@ class Api::OdooController < ApplicationController
 
     def index 
         begin
-
-            url = "https://kareem-crm.odoo.com"
-            db = "kareem-crm"
-            username = "div.kareemomar@gmail.com"
-            password = "01094976280"
+            url = "https://safa-erp-staging-5791729.dev.odoo.com"
+            db="safa-erp-staging-5791729"
+            username = "admin"
+            password = "317b1399a78081fd77534ce3fdc997d2cdd8d407"
 
             params[:phone].chr == '+' || params[:phone].chr == ' ' ?  phone = params[:phone].sub(params[:phone].chr,'+') : phone = '+'.concat(params[:phone])
             # abort phone
